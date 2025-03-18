@@ -1,0 +1,19 @@
+Course 1: - Web Development (FrontEnd, BackEnd, FullStack)
+
+- Frontend (HTML, CSS, JS, Tailwind CSS, React, Next.js, Figma)
+- BackEnd (Node.js, Express.js, MongoDB, Mongoose)
+
+Course 2: - Python Programming 
+
+Course 3: - Data Structures & Algorithms (DSA)
+
+
+Python: - 
+
+1. Data Types
+2. Functions 
+3. OOP
+
+
+DSA: -
+
